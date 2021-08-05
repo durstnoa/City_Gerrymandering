@@ -3,7 +3,7 @@ This repository contains code and data used to examine the gerrymandering of cit
 
 City_Gerrymandering.py contains the Python script used to identify and measure the gerrymandering of cities.
 
-The following files are included: 
+Due to the size of the files, the following data are not included in this repository. 
 - US_place_2010 (shapefile for US places in 2010; acquired from https://www.nhgis.org/)
 - US_place_2000 (shapefile for US places in 2000; acquired from https://www.nhgis.org/)
 - US_place_1980 (shapefile for US places in 1980; acquired from https://www.nhgis.org/)
