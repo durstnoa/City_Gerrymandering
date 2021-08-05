@@ -1,5 +1,5 @@
 # City_Gerrymandering
-This repository contains code and data used to examine the gerrymandering of cities in the US.
+This repository contains code used to examine the gerrymandering of cities in the US.
 
 City_Gerrymandering.py contains the Python script used to identify and measure the gerrymandering of cities.
 
